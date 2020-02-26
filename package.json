@@ -1,0 +1,15 @@
+{
+  "name": "@jkacki/randomid-generator",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Jacek Kącki",
+  "keywords": [
+    "generate",
+    "random"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacekkacki/randomid-generator"
+  }
+}
