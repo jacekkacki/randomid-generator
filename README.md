@@ -17,6 +17,6 @@ const randomID = require('@jkacki/randomid-generator');
 
 console.log(randomID()); // Default generate 10 random id
 
-//When you want to change it, enter a value, for randomID(newvalue);
+//When you want to change it, enter a value, for randomID(newValue);
 ```
 
